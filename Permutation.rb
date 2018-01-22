@@ -1,4 +1,4 @@
-#program that finds out if words are permutations of each other
+#script that finds out if words are permutations of each other
 
 puts "Input first word"
 first_word = gets.chomp
